@@ -1,0 +1,8 @@
+
+.formControl{
+    margin: 10px auto;
+    max-width: 400px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}

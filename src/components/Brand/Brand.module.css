@@ -1,0 +1,11 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.covidimg{
+    height: 50px;
+    object-fit: contain;
+}
